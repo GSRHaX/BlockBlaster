@@ -1,6 +1,22 @@
 # BlockBlaster 🧩
 A Block Blast solver that integrates seamlessly with IOS, utilizing shortcuts. Triple tap the back of your phone, and solutions appear as notifications! 👾🎯
 
+# Local Server Steps
+
+
+
+```bash
+git clone https://github.com/GSRHaX/BlockBlaster.git
+cd BlockBlaster
+npm install
+node src/index.js
+```
+Open another terminal & run:
+```bash
+cloudflared tunnel --url http://localhost:3000
+```
+
+
 # Quick Install
 
 [Download BlockBlaster Shortcut](https://github.com/GSRHaX/BlockBlaster/raw/refs/heads/main/BlockBlaster.shortcut)
