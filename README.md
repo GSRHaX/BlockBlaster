@@ -1,5 +1,5 @@
 # BlockBlaster 🧩
-A Block Blast solver that integrates seamlessly with IOS, utilizing shortcuts. Triple tap the back of your iphone, and solutions appear as notifications! 👾🎯
+A Block Blast solver that integrates seamlessly with IOS, utilizing shortcuts. Triple tap the back of your iphone, and solutions appear as notifications. No need for manual uploads, and visting AD filled sites!👾🎯
 
 
 ## Local Server Setup
