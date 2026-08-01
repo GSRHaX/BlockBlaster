@@ -1,6 +1,7 @@
 # BlockBlaster 🧩
 A Block Blast solver that integrates seamlessly with IOS, utilizing shortcuts. Triple tap the back of your iphone, and solutions appear as notifications! 👾🎯
 
+
 ## Local Server Setup
 
 ### 1. Install Cloudflared
@@ -50,6 +51,10 @@ After Download, Please do the following:
 - If Triple Tap is unreliable, try tapping more firmly.
 - The shortcut requires an internet connection.
 
-
-
+<br/>
+<p align="left">
+  <img src="https://github.com/GSRHaX/BlockBlaster/blob/main/display/blockBlaster.jpg?raw=true" height="500">
+  &nbsp;&nbsp;
+  <img src="https://github.com/GSRHaX/BlockBlaster/blob/main/display/blockBlaster2.jpg?raw=true" height="500">
+</p>
 
